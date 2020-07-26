@@ -1,0 +1,1 @@
+Stock picker program for The Odin Project. Written in Ruby.
